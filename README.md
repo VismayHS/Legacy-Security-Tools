@@ -33,3 +33,6 @@ python analyzer.py suspicious_file.exe
 ## License
 
 Internal use only - THG Security Infrastructure Team
+
+## Maintenance Status
+Project archived October 2024
